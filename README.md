@@ -9,11 +9,11 @@
 
 5. After installation type these commands one by one -
    
-   composer require laravel/ui
-   php artisan ui vue --auth
-   npm install
-   npm run dev
-   npm update vue-loader (if any error)
-   npm run dev //again
+composer require laravel/ui
+php artisan ui vue --auth
+npm install
+npm run dev
+npm update vue-loader (if any error)
+npm run dev //again
    
    

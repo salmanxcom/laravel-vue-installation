@@ -21,3 +21,5 @@ npm run dev //again
    
 // Setup Vue Frontend with TailwindCSS
 1. Guide URL- https://tailwindcss.com/docs/guides/vite
+2. CSS Modules List from - https://tailwindui.com/components/application-ui/forms/sign-in-forms
+3. 

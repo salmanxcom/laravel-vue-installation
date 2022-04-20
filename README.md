@@ -17,3 +17,5 @@ npm update vue-loader (if any error) ,
 npm run dev //again 
    
    
+// Setup Vue Frontend with TailwindCSS
+Guide URL- https://tailwindcss.com/docs/guides/vite
